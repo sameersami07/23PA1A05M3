@@ -1,0 +1,53 @@
+{
+  "depotSchedules": [
+    {
+      "depotID": 1,
+      "mechanicHours": 60,
+      "totalImpact": 63,
+      "totalDuration": 51,
+      "selectedTasks": [
+        "264e638f-1c7a-4d67-9f9c-53f3d1766d37",
+        "ec40b581-bdfc-43e0-a047-871fdafe8167",
+        "fb1e3165-67c9-4e96-a5c3-2d20085d293b",
+        "330065c0-3815-4e10-a18a-b93b117e30a8",
+        "72a91abc-4ed7-492c-9e99-348e7437953b",
+        "8a7ff5b1-335c-4a2f-96d8-09c4a362e781",
+        "1d893de7-fbba-4c77-927b-e3076fe805d5",
+        "1743e1b5-9dfd-450b-9905-98c3e054aee1",
+        "48851915-eaf5-48ec-a20c-5074d7050c5f",
+        "7d81e6ca-8f03-4c4a-9ec0-701f820c5655"
+      ]
+    },
+    {
+      "depotID": 2,
+      "mechanicHours": 135,
+      "totalImpact": 0,
+      "totalDuration": 0,
+      "selectedTasks": []
+    },
+    {
+      "depotID": 3,
+      "mechanicHours": 188,
+      "totalImpact": 0,
+      "totalDuration": 0,
+      "selectedTasks": []
+    },
+    {
+      "depotID": 4,
+      "mechanicHours": 97,
+      "totalImpact": 0,
+      "totalDuration": 0,
+      "selectedTasks": []
+    },
+    {
+      "depotID": 5,
+      "mechanicHours": 164,
+      "totalImpact": 0,
+      "totalDuration": 0,
+      "selectedTasks": []
+    }
+  ],
+  "grandTotalImpact": 63,
+  "tasksScheduled": 10,
+  "tasksRemaining": 0
+}

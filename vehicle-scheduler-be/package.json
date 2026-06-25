@@ -1,0 +1,16 @@
+{
+  "name": "vehicle-scheduler-be",
+  "version": "1.0.0",
+  "description": "Vehicle maintenance scheduler using 0/1 knapsack optimization",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "test": "node --test test/knapsack.test.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "logging-middleware": "file:../logging-middleware"
+  }
+}

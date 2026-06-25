@@ -1,0 +1,13 @@
+{
+  "name": "logging-middleware",
+  "version": "1.0.0",
+  "description": "AffordMed evaluation logging middleware with auth support",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --test test/logger.test.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
